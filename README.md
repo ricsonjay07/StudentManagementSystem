@@ -98,3 +98,7 @@ Open the local URL shown in the terminal, usually:
 Student Information System
 
 Integrative Programming and Technologies II
+
+## Project Status
+
+The Student Management System is a working CRUD application. Student records are stored in a MySQL database using Prisma ORM.
